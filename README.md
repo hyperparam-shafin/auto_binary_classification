@@ -1,0 +1,1 @@
+The purpose of this project is to perform numerical classification to make binary classification. Inputs need to be taken from a front end and to make a baseline prediction this will give a start off for further tunning the model.
